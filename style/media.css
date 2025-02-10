@@ -1,0 +1,36 @@
+@media screen and (max-width: 760px) {
+    body {
+        background: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)), 
+                    url('../Components/images/Camada.png') no-repeat center top;
+        background-size: contain; /* Ajusta o wallpaper em telas menores */
+    }
+
+    header {
+        flex-direction: column;
+    }
+
+    main {
+        flex-direction: column;
+    }
+
+    h2 {
+        font-size: 28px;
+    }
+
+    form {
+        margin: 0 auto;
+        width: 100%;
+    }
+
+    input {
+        align-self: center;
+    }
+
+    img {
+        display: none; /* Oculta imagens em telas menores */
+    }
+
+    ul {
+        text-align: center;
+    }
+}

@@ -12,7 +12,7 @@ Bem vindo à documentação Uppertools
 Links úteis
 ===========
 
-`Home <https://brone.help.uppertools.com.br/index.html>`_
+`Home <https://brone-upper-help.netlify.app/index.html>`_
 
 
 .. toctree::

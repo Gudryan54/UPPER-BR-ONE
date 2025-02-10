@@ -1,7 +1,7 @@
 ﻿Atualização do Add-On
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Para atualizar o Add-On deve ser seguido os mesmos passos do tópico da instalação para registro.
+Par atualizar o Add-On deve ser seguido os mesmos passos do tópico da instalação para registro.
 
 Na tela de *"Administração de add-on"*, haverá uma pequena diferença, pois, nela aparecerá o BR One já instalado com a versão que receberá a atualização. Conforme a imagem abaixo:
 

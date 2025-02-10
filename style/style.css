@@ -1,0 +1,209 @@
+body {
+    background: url('../Components/images/Camada.png');
+    background-size: cover;
+    color: rgb(0, 0, 0);
+    font-family: 'Poppins', sans-serif;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#title {
+    display: flex;
+    align-items: center;
+}
+
+#title h1 {
+    display: flex;
+    align-items: center;
+}
+
+#title .logo {
+    width: 150px; /* Ajuste o tamanho conforme necessário */
+    height: auto;
+    margin-right: 10px; /* Espaçamento entre a imagem e o texto */
+}
+
+ul {
+    list-style: none; /* Remove os marcadores da lista */
+    padding: 0;
+}
+
+li {
+    display: inline-block;
+    margin: 30px;
+}
+
+a {
+    color: rgb(126, 218, 255);
+    text-decoration: none; /* Remove a sublinhação dos links */
+}
+
+a:hover {
+    color: rgb(126, 220, 248);
+    transition: 0.3s all;
+}
+
+#Inscreva-se-btn {
+    border: 2px solid rgb(126, 218, 255);
+    padding: 10px;
+    border-radius: 15px;
+}
+
+#Inscreva-se-btn:hover {
+    background-color: blueviolet;
+    color: rgb(5, 5, 5);
+}
+
+h1 {
+    font-weight: 200;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+}
+
+h2 {
+    font-size: 36px; /* Ajuste o tamanho conforme necessário */
+}
+
+span {
+    color: rgb(110, 83, 233);
+}
+
+p {
+    line-height: 20px;
+    max-width: 500px;
+    font-family: poppinslight;
+    font-size: 18px; /* Ajuste o tamanho conforme necessário */
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+}
+
+form[type="submit"] {
+    height: 50px;
+    width: 50%;
+    background-color: blueviolet;
+    color: rgb(2, 2, 2);
+    font-weight: bold;
+}
+
+form[type="submit"]:hover {
+    cursor: pointer;
+}
+
+input {
+    margin-top: 20px;
+    height: 20px;
+    padding: 15px;
+    border-radius: 20px;
+    border: none;
+    font-size: 15px;
+}
+
+img {
+    width: 650px;
+    margin-left: 100px;
+    margin-right: auto;
+    padding-top: 50px;
+    display: block; /* Isso garante que a margem automática funcione corretamente */
+}
+
+.logob {
+    width: 300px; /* Ajuste o tamanho conforme necessário */
+    height: auto;
+    display: block; /* Para garantir que ocupa toda a largura possível */
+    margin: 0 auto; /* Centraliza horizontalmente */
+}
+
+.separator {
+    width: 150px; /* Ajuste o tamanho conforme necessário */
+    margin: 0 auto; /* Centraliza horizontalmente */
+}
+
+.Consulte {
+    width: 300px; /* Ajuste o tamanho conforme necessário */
+    height: auto;
+    display: block; /* Para garantir que ocupa toda a largura possível */
+    margin: 0 auto; /* Centraliza horizontalmente */
+    margin-top: 0; /* Remove espaço superior */
+}
+
+.social-media {
+    display: flex; /* Garante que os ícones de mídia social fiquem lado a lado */
+    gap: 10px; /* Espaçamento entre os ícones */
+    position: fixed; /* Fixa a posição na tela */
+    bottom: 50px; /* Distância do fundo da tela */
+    left: 50%; /* Centraliza horizontalmente */
+    transform: translateX(-50%); /* Ajuste para centralização */
+    padding: 10px; /* Espaçamento interno */
+    border-radius: 10px; /* Bordas arredondadas */
+}
+
+.Uppertools {
+    width: 30px; /* Tamanho pequeno para os ícones de mídia social */
+    height: 30px; /* Tamanho pequeno para os ícones de mídia social */
+    margin: 5px; /* Espaçamento entre os ícones */
+}
+
+.uppertools {
+    position: fixed; /* Fixa a posição na tela */
+    bottom: 10px; /* Distância do fundo da tela */
+    left: 400px; /* Distância da borda esquerda da tela */
+    padding: 10px; /* Espaçamento interno */
+}
+
+.uppertools img {
+    width: 300px; /* Ajuste o tamanho da imagem */
+    height: auto; /* Mantém a proporção da imagem */
+}
+
+.social-media img {
+    width: 30px; /* Tamanho pequeno para os ícones de mídia social */
+    height: 30px; /* Tamanho pequeno para os ícones de mídia social */
+    margin: 5px; /* Espaçamento entre os ícones */
+}
+
+@media screen and (max-width: 760px) {
+    header {
+        flex-direction: column;
+    }
+
+    main {
+        flex-direction: column;
+    }
+
+    h2 {
+        font-size: 28px; /* Ajuste o tamanho conforme necessário */
+    }
+
+    form {
+        margin: 0 auto;
+        width: 100%;
+    }
+
+    input {
+        align-self: center;
+    }
+
+    img {
+        display: none;
+    }
+
+    ul {
+        text-align: center;
+    }
+}

@@ -2,7 +2,7 @@
 Pré Requisitos
 ~~~~~~~~~~~~~~~~~~
 
-Configurações Regionais do Windows para funcionamento adequado do SAP Business One e add-nos
+Configuraçõ Regionais do Windows para funcionamento adequado do SAP Business One e add-nos
 
 **Símbolo decimal** = , (virgula)
 
