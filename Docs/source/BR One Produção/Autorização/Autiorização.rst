@@ -3,7 +3,7 @@ Autorização de Produção
 
 **Autorização "Somente Leitura"** 
 
-Esta autorização permitirá aos usuários acessar e visualizar as informações nas telas do BR One, mas não permitirá que eles façam alterações.  
+Esta autorização permitirá aos usuários acessar e visualizar as informações nas telas do BR One, mas não permitirá que eles façam alterações é o teste do GUDRYAN 20321
 
 
 No modulo de Produção algumas telas possuem a funcionalidades de somente leitura, sendo elas: 
