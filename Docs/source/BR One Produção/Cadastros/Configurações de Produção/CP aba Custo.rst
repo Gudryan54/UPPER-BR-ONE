@@ -1,7 +1,7 @@
 ﻿Configurações de Produção - Aba Custos
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Para acessar as Configurações de produção é necessário ir  no menu:
+Para acessar as Configurações de produção é necessário ir  no menu
 
 **Administração -> Definição -> Produção -> Configurações de produção**
 
