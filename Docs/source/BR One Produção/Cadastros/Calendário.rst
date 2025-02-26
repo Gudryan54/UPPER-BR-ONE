@@ -1,7 +1,7 @@
 ﻿Calendário
 ~~~~~~~~~~
 
-Para acessar o cadastro de Calendário é necessário ir  no menu: TESTTESSS
+Para acessar o cadastro de Calendário é necessário ir  no menu: TESTTESSSSss
 
 **Administração -> Definição -> Produção -> Calendário**
 
