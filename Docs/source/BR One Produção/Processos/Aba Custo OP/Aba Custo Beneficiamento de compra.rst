@@ -1,7 +1,7 @@
 Ordem de Produção - Beneficiamento de compra
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Detalhamento dos campos e cálculos utilizados na aba custo da Ordem de Beneficiamento de Compra. TESTE POR QUE EU SOU FODA
+Detalhamento dos campos e cálculos utilizados na aba custo da Ordem de Beneficiamento de Compra.
 
 Para exemplificar o processo de produção, vamos utilizar uma Ordem de Produção (OP) beneficiamento de compra com uma quantidade planejada de 10 unidades. 
 
