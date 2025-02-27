@@ -1,7 +1,7 @@
 ﻿Calendário
 ~~~~~~~~~~
 
-Para acessar o cadastro de Calendário é necessário ir  no menu: Sendo assim aqui estou mais um dia 12333332.
+Para acessar o cadastro de Calendário é necessário ir  no menu: Sendo assim aqui estou mais um dia 12333332
 **Administração -> Definição -> Produção -> Calendário**
 
 .. image:: /_static/BR\ One\ Produção/Cadastros/Calendário/Aspose.Words.f3a218d2-e8ba-4a58-af85-2343c830b0df.003.png
