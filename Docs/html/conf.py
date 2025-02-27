@@ -38,5 +38,5 @@ html_css_files = [
 # Remover o link de "Fonte" nas páginas
 html_show_sourcelink = False
 
-# Configurar o Favicon (certifique-se de que o arquivo esteja correto)
-html_favicon = '_static/uppertools.ico'  # Verifique se o arquivo 'uppertools.ico' existe na pasta '_static'
+# Favicon configurado corretamente
+html_favicon = '_static/uppertools.ico'  # Verifique se o arquivo está no diretório _static
