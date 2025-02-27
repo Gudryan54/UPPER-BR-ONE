@@ -67,7 +67,7 @@ html_css_files = [
 html_show_sourcelink = False
 
 # Inclusão do favicon
-html_favicon = '/Treinamento/Backup/html/img_logo/logo_grande/uppertools.ico'
+html_favicon = '/Treinamento/html/_static/uppertools.ico'
 
 
 # Diretório para arquivos estáticos
