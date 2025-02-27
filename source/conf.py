@@ -73,7 +73,7 @@ html_favicon = 'image_logo/logo_grande/uppertools.ico'
 
 # Diretório para arquivos estáticos
 # Certifique-se de que o diretório _static exista ou o Sphinx não conseguirá encontrar o favicon.
-html_static_path = ['_img_logo']
+html_static_path = ['img_logo']
 
 # Arquivos CSS que devem ser incluídos
 html_css_files = [
