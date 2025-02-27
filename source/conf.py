@@ -60,17 +60,19 @@ html_static_path = ['_static']
 
 # Inclua o arquivo CSS personalizado
 html_css_files = [
-    'custom.css',
+    'css/custom.css',
 ]
 
 # Remoção do botão "Ver código-fonte da página" da documentação.
 html_show_sourcelink = False
 
 # Inclusão do favicon
-html_favicon = '/var/www/html/img_logo/logo_grande/uppertools.ico'
+# Alterei o caminho do favicon para ser relativo ao diretório de documentação
+html_favicon = 'img_logo/logo_grande/uppertools.ico'
 
 
 # Diretório para arquivos estáticos
+# Certifique-se de que o diretório _static exista ou o Sphinx não conseguirá encontrar o favicon.
 html_static_path = ['_static']
 
 # Arquivos CSS que devem ser incluídos
