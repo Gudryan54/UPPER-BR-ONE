@@ -39,4 +39,4 @@ html_css_files = [
 html_show_sourcelink = False
 
 # Favicon configurado corretamente
-html_favicon = '_static/uppertools.ico'  # Verifique se o arquivo está no diretório _static
+html_favicon = 'img_logo/logo_grande/uppertools.ico'  # Verifique se o arquivo está no diretório _static
