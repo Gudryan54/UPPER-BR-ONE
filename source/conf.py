@@ -68,7 +68,7 @@ html_show_sourcelink = False
 
 # Inclusão do favicon
 # Alterei o caminho do favicon para ser relativo ao diretório de documentação
-html_favicon = 'img_logo/logo_grande/uppertools.ico'
+html_favicon = 'img_logo\logo_grande/uppertools.ico'
 
 
 # Diretório para arquivos estáticos
