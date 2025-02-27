@@ -26,3 +26,5 @@ language = 'pt'
 
 html_theme = 'alabaster'
 html_static_path = ['_static']
+
+html_theme = 'sphinx_rtd_theme'
