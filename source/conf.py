@@ -17,7 +17,7 @@
 # -- Informações do projeto -----------------------------------------------------
 
 project = 'Uppertools'
-copyright = '2024, Uppertools'
+copyright = '2025, Uppertools'
 author = 'Uppertools'
 
 # A versão completa, incluindo tags alpha/beta/rc
